@@ -1,0 +1,15 @@
+.im1{
+    display: inline-block;
+    background: red;
+    width: 390px;
+    margin: 50px;
+    
+}
+.im2{
+    display: inline-block;  
+    background: rgb(146, 121, 168);
+    width: 25%;
+    height: 25%;
+    
+}
+
